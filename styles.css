@@ -86,7 +86,7 @@ main {
   margin-top: 69px;
   width: 100%;
   height: 700px;
-  background-image: url('img-mission-background.jpg');
+  background-image: url('./img-mission-background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -184,7 +184,7 @@ figure {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('img-locations-background.jpg');
+  background-image: url('./img-locations-background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
