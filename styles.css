@@ -28,6 +28,7 @@ header img {
 }
 @media only screen and (max-width: 850px) {
   header {
+    positon: fixed;
     height: fit-content;
   }
   header img {
@@ -68,6 +69,8 @@ main {
     height: auto;
     justify-content: space-between;
   }
+  section {
+    height: 100vh;
 }
 #mission {
   display: flex;
