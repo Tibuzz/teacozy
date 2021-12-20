@@ -28,7 +28,9 @@ header img {
 }
 @media only screen and (max-width: 850px) {
   header {
-    positon: fixed;
+    positon: absolute;
+    top: 0;
+    left: 0;
     height: fit-content;
   }
   header img {
